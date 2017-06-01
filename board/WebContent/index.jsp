@@ -13,7 +13,7 @@
 	th{
 		background-color:green;
 		color:white;
-		color:red;
+		//
 	}
 </style>
 </head>
